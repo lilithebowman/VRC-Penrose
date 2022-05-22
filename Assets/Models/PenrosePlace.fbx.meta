@@ -3,7 +3,27 @@ guid: 2ba80966d0c9e2a44a7aed31c9f9b585
 ModelImporter:
   serializedVersion: 19301
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PenroseRoomWallpaper
+    second: {fileID: 2100000, guid: 9d87f02cae04cbb43aad0053b2938080, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PenroseRoomWalls
+    second: {fileID: 2100000, guid: 2e4239ca85b85544da185c289ace5086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Planters
+    second: {fileID: 2100000, guid: 6a72b180099256b4cb63188d4cf26492, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plants
+    second: {fileID: 2100000, guid: 0b65ee44b4fe2ee4d96205d64b396be0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
