@@ -87,7 +87,7 @@ Material:
     - _DstBlend: 0
     - _ExposureOcclusion: 0.2
     - _GlossMapScale: 1
-    - _Glossiness: 0.5
+    - _Glossiness: 0.949
     - _GlossyReflections: 1
     - _InsetCalculate: 0
     - _InsetSample: 0
@@ -95,7 +95,7 @@ Material:
     - _LTCGI: 1
     - _LightmapSpecular: 1
     - _LightmapSpecularMaxSmoothness: 1
-    - _Metallic: 0.5
+    - _Metallic: 0.956
     - _Mode: 0
     - _NormalMapShadows: 0
     - _OcclusionStrength: 1
